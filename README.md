@@ -20,6 +20,10 @@
 - ⚡ Fun fact: Created a **platform to share medicines** during shortages  
 
 ---
+## 🚀 Deployed Projects
+
+- [Medifind](medifindui.netlify.app) -  Medicine Sharing Platform (React + Bootstrap + Redux  + API Integration)
+- [ToDo List](todo-list-heba.netlify.app) - React + Redux +Tailwind CSS
 
 ## 🛠 Skills & Technologies
 

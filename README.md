@@ -35,13 +35,7 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img alt="Heba's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=HebaElgohary&show_icons=true&hide_border=true&theme=radical" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HebaElgohary&layout=compact&hide_border=true&theme=radical" />
-</p>
 
----
 
 ## 🔗 Connect with Me
 <p align="center">

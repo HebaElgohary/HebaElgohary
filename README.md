@@ -23,7 +23,7 @@
 ## 🚀 Deployed Projects
 
 - [Medifind](https://medifindui.netlify.app/) -  Medicine Sharing Platform (React + Bootstrap + Redux  + API Integration)
-- [ToDo List]([medifindui.netlify.app](https://todo-list-heba.netlify.app/)) - React + Redux +Tailwind CSS
+- [ToDo List](https://todo-list-heba.netlify.app/) - React + Redux +Tailwind CSS
 
 ## 🛠 Skills & Technologies
 

@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200"/>
 </p>
 
-<h1 align="center">Hi there! I'm Hiba 👋</h1>
+<h1 align="center">Hi there! I'm Heba 👋</h1>
 <p align="center">
   <strong>Frontend Developer | React & Next.js Enthusiast | Lifelong Learner</strong>
 </p>
@@ -37,7 +37,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img alt="Hiba's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=HebaElgohary&show_icons=true&hide_border=true&theme=radical" />
+  <img alt="Heba's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=HebaElgohary&show_icons=true&hide_border=true&theme=radical" />
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HebaElgohary&layout=compact&hide_border=true&theme=radical" />
 </p>
 
@@ -46,18 +46,10 @@
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://github.com/HebaElgohary"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/heba-elgohary-230422199/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="hebasamir535@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## ✨ Fun & Vibes
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
-</p>
 
-<p align="center">
-  💡 Keep learning, keep coding, and keep growing! 🌱  
-  ⚡ Let’s make amazing React & Next.js projects together!
-</p>

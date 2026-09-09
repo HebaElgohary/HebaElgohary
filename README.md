@@ -52,7 +52,7 @@ I'm a **Frontend Developer** passionate about building clean, responsive, and in
 
 A medicine-sharing platform designed to help users find and share available medicines.
 
-**Tech Stack:** React · Redux · Bootstrap · API Integration
+**Tech Stack:** React · Redux · Bootstrap · Framer Motion .   API Integration . nodejs . mongodb  
 
 🔗 **[Live Demo](https://medifind-front.vercel.app/)**
 
@@ -62,7 +62,7 @@ A medicine-sharing platform designed to help users find and share available medi
 
 A modern survey platform for creating, managing, and analyzing surveys.
 
-**Tech Stack:** React · TypeScript · Tailwind CSS · shadcn/ui · Framer Motion
+**Tech Stack:** Next.js  · TypeScript · React Query ·  GSAP · next-intl
 
 🔗 **[Live Demo](https://surveyland-nu.vercel.app/)**
 

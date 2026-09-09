@@ -64,7 +64,7 @@ A modern survey platform for creating, managing, and analyzing surveys.
 
 **Tech Stack:** React · TypeScript · Tailwind CSS · shadcn/ui · Framer Motion
 
-🔗 **[Live Demo](https://survey-land-mocha.vercel.app/)**
+🔗 **[Live Demo]([https://survey-land-mocha.vercel.app/])**
 
 ---
 
